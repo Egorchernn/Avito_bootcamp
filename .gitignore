@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+catboost_info/
+
+.env
+.env.*
+!.env.example
+
+/data/
+
+.idea/
+.vscode/
